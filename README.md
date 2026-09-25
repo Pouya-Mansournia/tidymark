@@ -1,4 +1,6 @@
-# ◈ Tidymark
+<p align="center"><img src="extension/icons/icon128.png" width="96" alt="Tidymark icon"></p>
+
+<h1 align="center">Tidymark</h1>
 
 **A local-first Chrome extension that suggests folders for your bookmarks and moves them only after you approve.**
 
