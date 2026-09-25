@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Tidymark — Local Bookmark Organizer",
+  "version": "1.2.0",
+  "description": "Review local suggestions and organize bookmarks only after approval. No servers, no tracking.",
+  "minimum_chrome_version": "120",
+  "permissions": ["bookmarks", "storage"],
+  "action": {"default_title": "Open Tidymark"},
+  "background": {"service_worker": "background.js"}
+}

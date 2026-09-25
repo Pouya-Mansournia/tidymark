@@ -1,0 +1,20 @@
+{
+  "format": "Tidymark plan v1",
+  "bookmarks": [
+    {
+      "id": "123",
+      "title": "Example Domain",
+      "url": "https://example.com/",
+      "category": "Learning / References",
+      "reason": "Hand-reviewed: general reference page",
+      "reviewRequired": false
+    },
+    {
+      "id": "456",
+      "title": "Some ambiguous search",
+      "url": "https://www.google.com/search?q=example",
+      "category": "Review / Unclear",
+      "reviewRequired": true
+    }
+  ]
+}

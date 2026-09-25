@@ -1,0 +1,6 @@
+# Personal data and local build artifacts — never commit
+outputs/
+work/
+*.zip
+tidymark-backup.json
+node_modules/
